@@ -8,7 +8,7 @@ University of Michigan ROB530 WIN19 TEAM6 Project
 Please refer to our [paper](attachments/NA_568_Final_Report.pdf) for detailed description of our methods for improving ORB-SLAM2.
 
 Result of running ORB-SLAM2 with **DFF** on KITTI sequence 04:
-![alt text](attachments/KITTI_04_DFF.png | width=100)
+![alt text](attachments/KITTI_04_DFF.png)
 
 Result of running ORB-SLAM2 with **DOTA** on Devon Island sequence 00:
 
@@ -24,7 +24,7 @@ The following installation and examples have been tested on Ubuntu 16.04.
 
 Clone the repository:
 ```
-git clone https://gitlab.eecs.umich.edu/rob530team6/orb-slam2.git
+git clone https://github.com/FeliksBrant/Dynamic_ORB-SLAM
 ```
 
 Follow [section 2](https://github.com/raulmur/ORB_SLAM2#2-prerequisites) to install all **Prerequistes** for **ORB-SLAM2**. 
