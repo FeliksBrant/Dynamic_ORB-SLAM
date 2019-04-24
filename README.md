@@ -7,10 +7,10 @@ University of Michigan ROB530 WIN19 TEAM6 Project
 
 Please refer to our [paper](attachments/NA_568_Final_Report.pdf) for detailed description of our methods for improving ORB-SLAM2.
 
-Result of running ORB-SLAM2 with **DFF** on KITTI sequence 04:
+- Result of running ORB-SLAM2 with **DFF** on KITTI sequence 04:
 ![alt text](attachments/KITTI_04_DFF.png)
 
-Result of running ORB-SLAM2 with **DOTA** on Devon Island sequence 00:
+- Result of running ORB-SLAM2 with **DOTA** on Devon Island sequence 00:
 
 ![alt text](attachments/DevonIslandxy.png)
 ![alt text](attachments/DevonIslandz.png)
